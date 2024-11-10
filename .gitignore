@@ -1,0 +1,8 @@
+__pycache__/
+static/input.json
+static/output.pdf
+static/output.json
+static/final_cnn_model.h5
+static/outputs/*.png
+static/uploads/input.jpg
+static/uploads/input.png
